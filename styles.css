@@ -66,6 +66,22 @@ body {
 .weather-status {
     padding: 20px;
 }
+/* .heading h1{
+    text-align: center;
+    color: rgb(73, 70, 70);
+} */
+/* for animated heading */
+
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
 
 .temp {
     font-size: 50pt;
@@ -75,6 +91,11 @@ body {
 }
 
 .min-max, .weather {
-    font-size: 12pt;
-    font-weight: 600;
+    font-size: 4pt;
+    font-weight: 300;
+}
+span h1{
+    color: rgb(249, 251, 251);
+    text-align: center;
+    margin-top: 50px;
 }
